@@ -6,3 +6,6 @@ foreground-color='rgb(220,233,235)'
 rewrap-on-resize=true
 visible-name='default'
 default-show-menubar=false
+
+[org.gnome.shell.extensions.user-theme] 
+name='theme-snowdrop'
