@@ -90,7 +90,7 @@
       </description>
     </key>
     <key name="gtk-theme" type="s">
-      <default>'theme-flatplat-white'</default>
+      <default>'gtk-theme-snowdrop'</default>
       <summary>Gtk+ Theme</summary>
       <description>
         Basename of the default theme used by gtk+.
